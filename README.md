@@ -8,6 +8,7 @@ This repository contains the implementation of a program to analyze the converge
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Assingment instructions](#assingment-instructions)
+- [Classmates](#classmates)
 - [License](#license)
 
 ## Introduction
@@ -65,6 +66,9 @@ This method offers a balance between computational efficiency and convergence ra
 9. **Calculation of Determinant of SOR Method Matrix:**
    - Calculate the determinant of the SOR method matrix for various values of $ω$ and plot its variation.
    - Identify the values of $ω$ where the determinant is less than $1$ and the value of $ω$ with the smallest determinant.
+
+## Classmates
+- Agustín Hernández [@agushernandezz](https://github.com/agushernandezz)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
