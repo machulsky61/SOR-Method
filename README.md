@@ -2,7 +2,7 @@
 
 # Successive over-relaxation
 
-This repository contains the implementation of a program to analyze the convergence of the **SOR** (_Successive Over-Relaxation_) method for solving linear systems, considering different values of the parameter ω. This is a **_Computational Linear Algebra_** assignment. For more, check out my repository on [linear algebra](https://github.com/machulsky61/linear-algebra).
+This repository contains the implementation of a program to analyze the convergence of the **SOR** (_Successive Over-Relaxation_) method for solving linear systems, considering different values of the parameter ω. This is a [Computational Linear Algebra](https://github.com/machulsky61/linear-algebra) assignment.
 
 ## Table of Contents
 - [Introduction](#introduction)
