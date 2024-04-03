@@ -1,6 +1,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-# Successive over-relaxation
+# Successive Over-Relaxation
 
 This repository contains the implementation of a program to analyze the convergence of the **SOR** (_Successive Over-Relaxation_) method for solving linear systems, considering different values of the parameter ω. This is a [Computational Linear Algebra](https://github.com/machulsky61/linear-algebra) assignment.
 
